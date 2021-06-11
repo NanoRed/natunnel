@@ -19,7 +19,7 @@ Usage of ./server:
         Input Your Domain.
   -ServerAddr string
         Input the listening address of the natunnel server. (default "0.0.0.0:80")
-$ nohup ./server -HostDomain="yourdomain.com" > /var/log/natunnel.log 2>&1 &
+$ nohup ./server -ServerAddr="0.0.0.0:80" -HostDomain="yourdomain.com" > /var/log/natunnel.log 2>&1 &
 ```
 * client
 ```
