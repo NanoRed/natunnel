@@ -3,10 +3,10 @@ package main
 import (
 	"flag"
 
-	"github.com/RedAFD/natunnel/internal/config"
-	"github.com/RedAFD/natunnel/internal/handler"
-	"github.com/RedAFD/natunnel/internal/logger"
-	"github.com/RedAFD/natunnel/internal/server"
+	"github.com/NanoRed/natunnel/internal/config"
+	"github.com/NanoRed/natunnel/internal/handler"
+	"github.com/NanoRed/natunnel/internal/logger"
+	"github.com/NanoRed/natunnel/internal/server"
 )
 
 func init() {

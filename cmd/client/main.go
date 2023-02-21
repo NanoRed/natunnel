@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/RedAFD/natunnel/internal/client"
-	"github.com/RedAFD/natunnel/internal/config"
-	"github.com/RedAFD/natunnel/internal/handler"
+	"github.com/NanoRed/natunnel/internal/client"
+	"github.com/NanoRed/natunnel/internal/config"
+	"github.com/NanoRed/natunnel/internal/handler"
 )
 
 func main() {

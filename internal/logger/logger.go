@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/RedAFD/natunnel/internal/config"
+	"github.com/NanoRed/natunnel/internal/config"
 )
 
 type Logger interface {

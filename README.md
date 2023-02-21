@@ -8,7 +8,7 @@ This is an NAT tunnel implementation
 ## hot to use
 * server
 ```
-$ git clone https://github.com/RedAFD/natunnel.git
+$ git clone https://github.com/NanoRed/natunnel.git
 $ cd natunnel
 $ make server-linux
 $ ./server -h
@@ -23,7 +23,7 @@ $ nohup ./server -ServerAddr="0.0.0.0:80" -HostDomain="yourdomain.com" > /var/lo
 ```
 * client
 ```
-PS C:\Users\XXX> git clone https://github.com/RedAFD/natunnel.git
+PS C:\Users\XXX> git clone https://github.com/NanoRed/natunnel.git
 PS C:\Users\XXX> cd natunnel
 PS C:\Users\XXX> make client-windows // if your pc is macOS, use make client-darwin
 PS C:\Users\XXX> .\client.exe

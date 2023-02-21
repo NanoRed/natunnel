@@ -1,3 +1,3 @@
-module github.com/RedAFD/natunnel
+module github.com/NanoRed/natunnel
 
-go 1.16
+go 1.20

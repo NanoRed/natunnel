@@ -13,9 +13,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/RedAFD/natunnel/internal/config"
-	"github.com/RedAFD/natunnel/internal/connection"
-	"github.com/RedAFD/natunnel/internal/logger"
+	"github.com/NanoRed/natunnel/internal/config"
+	"github.com/NanoRed/natunnel/internal/connection"
+	"github.com/NanoRed/natunnel/internal/logger"
 )
 
 const ConnSign string = "NATUN"

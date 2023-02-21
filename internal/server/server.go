@@ -3,9 +3,9 @@ package server
 import (
 	"net"
 
-	"github.com/RedAFD/natunnel/internal/connection"
-	"github.com/RedAFD/natunnel/internal/handler"
-	"github.com/RedAFD/natunnel/internal/logger"
+	"github.com/NanoRed/natunnel/internal/connection"
+	"github.com/NanoRed/natunnel/internal/handler"
+	"github.com/NanoRed/natunnel/internal/logger"
 )
 
 type Server struct {

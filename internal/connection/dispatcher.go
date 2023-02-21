@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/RedAFD/natunnel/internal/config"
+	"github.com/NanoRed/natunnel/internal/config"
 )
 
 var DP *Dispatcher
